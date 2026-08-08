@@ -80,7 +80,7 @@
           <mxGeometry x="480" y="190" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KdoMw1E9Jf7w64gvvlHq-31" value="游客经验（调节变量）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="180" width="140" height="20" as="geometry" />
+          <mxGeometry x="310" y="300" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
