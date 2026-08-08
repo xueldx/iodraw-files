@@ -10,8 +10,17 @@
         <mxCell id="KdoMw1E9Jf7w64gvvlHq-2" value="服务接待体验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="150" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KdoMw1E9Jf7w64gvvlHq-3" value="旅游资源与景观体验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KdoMw1E9Jf7w64gvvlHq-3" value="文化遗产体验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="180" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KdoMw1E9Jf7w64gvvlHq-5" value="旅游资源与景观体验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="130" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KdoMw1E9Jf7w64gvvlHq-6" value="服务接待体验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="160" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KdoMw1E9Jf7w64gvvlHq-7" value="文化遗产体验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="190" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
