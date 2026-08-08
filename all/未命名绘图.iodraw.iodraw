@@ -149,10 +149,10 @@
           <mxGeometry x="280" y="240" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="KdoMw1E9Jf7w64gvvlHq-52" value="-" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="260" width="20" height="10" as="geometry" />
+          <mxGeometry x="270" y="270" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="KdoMw1E9Jf7w64gvvlHq-53" value="-" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="290" width="20" height="10" as="geometry" />
+          <mxGeometry x="270" y="300" width="20" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
