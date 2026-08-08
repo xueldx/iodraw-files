@@ -165,7 +165,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KdoMw1E9Jf7w64gvvlHq-62" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;强化&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;负向作用&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="KdoMw1E9Jf7w64gvvlHq-61">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
