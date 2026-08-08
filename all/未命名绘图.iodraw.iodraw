@@ -77,7 +77,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KdoMw1E9Jf7w64gvvlHq-30" value="入境游客满意度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="190" width="120" height="40" as="geometry" />
+          <mxGeometry x="480" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KdoMw1E9Jf7w64gvvlHq-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="180" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
