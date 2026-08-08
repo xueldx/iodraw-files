@@ -29,7 +29,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KdoMw1E9Jf7w64gvvlHq-12" value="感知利得型因素" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="75" width="60" height="30" as="geometry" />
+          <mxGeometry x="230" y="75" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
